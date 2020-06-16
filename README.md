@@ -1,6 +1,11 @@
 # EzyNoteApp
 Aplikasi Android penyimpanan note (catatan) dengan dengan fitur CRUD realtime menggunakan firebase dengan UI yang cantik.
-walaupun aplikasi ini siap sudah siap pakai, namun pengembanganya masih berlanjut sama hal nya dengan developernya(saya sendiri) yang masih  belajar. plz go ez on me, i know there is a bug in my app... a lot!.. LoL
+
+Saya desain aplikasi ini sendiri menggunakan Figma, lalu develop menggunakan Android Studio dengan bahasa java.
+
+walaupun aplikasi ini siap sudah siap pakai, namun masih jauh dari kata sempurna dan pengembanganya masih berlanjut sama hal nya dengan developernya(saya sendiri) yang masih belajar.
+
+plz go ez on me, i know there is a bug in my app... a lot!.. LoL
 
 ## Screen shots dari aplikasi Ezy Note
 <img width="435" alt="0" src="https://user-images.githubusercontent.com/55912199/84758090-959b7e80-aff7-11ea-85f2-d3b95729221b.png">
